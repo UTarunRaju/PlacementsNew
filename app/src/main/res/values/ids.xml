@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imageView3" type="id" />
+    <item name="adminbtn" type="id" />
+    <item name="signin" type="id" />
+    <item name="username" type="id" />
+</resources>
