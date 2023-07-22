@@ -80,7 +80,7 @@ public class MainActivity extends AppCompatActivity {
         loginbtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                if(username.getText().toString().equals("1") && password.getText().toString().equals("1"))
+                if(username.getText().toString().equals("utarunraju@gmail.com") && password.getText().toString().equals("123456"))
                 {
                     Toast.makeText(MainActivity .this,"LOGIN SUCCESSFUL",Toast.LENGTH_SHORT).show();
                     Intent i = new Intent(MainActivity.this, UserHome.class);

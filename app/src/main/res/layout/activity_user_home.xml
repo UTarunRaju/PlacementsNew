@@ -35,10 +35,10 @@
         android:id="@+id/imageView7"
         android:layout_width="60dp"
         android:layout_height="60dp"
-        android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
-        android:layout_marginStart="254dp"
         android:layout_marginTop="22dp"
+        android:layout_marginEnd="22dp"
+        android:layout_toStartOf="@+id/imageView4"
         app:srcCompat="@drawable/bell_ring" />
 
     <androidx.cardview.widget.CardView
